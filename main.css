@@ -1,0 +1,33 @@
+head{
+    background-color: #1a000d;
+    color:#ffffff
+}
+
+body {
+    background-color: #1a000d;
+    color: #ffe6ff;
+    font: 15px Verdana, serif;
+}
+
+h1 {
+    color: #ffffff;
+    font: 30px Arial, sans-serif;
+    text-align: center;
+    line-height: 2.5;
+}
+
+a:link {
+    color: #ffe6ff
+}
+
+a:visited {
+    color: #ffe6ff
+}
+
+a:hover {
+    color: #ffccff
+}
+
+a:active {
+    color: #ffe6ff
+}
